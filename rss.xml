@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BTI Multimedia]]></title>
         <description><![CDATA[BTI Multimedia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bti-multimedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 00:47:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 01:02:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bti-multimedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Enjoy this week's Kickback Session with HR People as they pay tribute to the man, the myth, the legend, David Bowie.</p>]]></description>
+            <link>https://thegrid.ai/bti-multimedia/enjoy-this-weeks-kickback-session-with-hr-people-as-they-pa/index.html</link>
+            <guid isPermaLink="false">290d6a38-bfdd-4ad9-a2c9-9bc9df412135</guid>
+            <pubDate>Mon, 02 May 2016 01:02:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HR People-Dip Your Toe|Kickback Session]]></title>
             <description><![CDATA[<p>'Dip Your Toe' with HR People in this week's Kickback Session</p>]]></description>
-            <link>undefinedhr-people-dip-your-toeorkickback-session/index.html</link>
+            <link>https://thegrid.ai/bti-multimedia/hr-people-dip-your-toeorkickback-session/index.html</link>
             <guid isPermaLink="false">55bb508d-ca64-488c-bb45-20ce92feda87</guid>
             <pubDate>Mon, 02 May 2016 00:47:23 GMT</pubDate>
         </item>
