@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "HR People are back this week with their bumpin' track 'Black Widow'! "
-datePublished: '2016-05-02T01:18:51.976Z'
-dateModified: '2016-05-02T01:18:32.619Z'
+datePublished: '2016-05-02T01:20:01.145Z'
+dateModified: '2016-05-02T01:18:56.901Z'
 title: ''
 author: []
 authors: []
@@ -24,6 +24,6 @@ _type: Article
 ---
 HR People are back this week with their bumpin' track 'Black Widow'! 
 
-Listen to the track on Spotify and watch the Kickback Session [HERE][0]!
+Listen to the track on [Spotify][0] and watch the Kickback Session [HERE][0]!
 
 [0]: null
