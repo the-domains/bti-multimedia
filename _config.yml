@@ -1,0 +1,28 @@
+name: BTI Multimedia
+favicon: null
+layout_spectrum: 0.13162354682572186
+typography_spectrum: 0.26036256086081266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.33995786076411605
+  lightness: 0.380259265890345
+  saturation: 0.9834242023061961
+  rhythmicContrast: 0.05354859912768006
+purpose: []
