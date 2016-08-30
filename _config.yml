@@ -1,29 +1,41 @@
-name: BTI Multimedia
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.22568
 title: BTI Multimedia
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.75
+  brandStrength: 0.3680851
+  lightness: 0.7404255
+  brandColors:
+    - '#FFFFFF'
+    - '#20391C'
+    - '#716E65'
+    - '#79AC61'
+    - '#C4C5BF'
+  rhythmicContrast: 0.9808511
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: BTI Multimedia
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.22568
+layout_spectrum: 0
